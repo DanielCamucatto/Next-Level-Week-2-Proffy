@@ -4,6 +4,9 @@
 ## Descrição
 > plataforma educacional com o objetivo de conectar alunos e professores
 ![](public/images/Home.png)
+## Estatus do Projeto 
+> Concluido :heavy_check_mark:
+> ainda precisa de ajustes :warning:
 ## Telas 
 ![](public/images/Telas.png)
 ## Sobre o Projeto
